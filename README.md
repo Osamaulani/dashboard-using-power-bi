@@ -13,7 +13,7 @@ Proyek ini bertujuan untuk membuat **dashboard interaktif** menggunakan **Power 
 
 ### **Tools & Technologies**
 - **Platform**: Power BI
-- **Data Sources**: Excel, MySQL, SQL Server, CSV
+- **Data Sources**: Excel, CSV
 - **Visualizations**: Bar Charts, Line Graphs, Pie Charts, Tables, Maps
 - **Advanced Features**: Filter, Drill-through, Slicers
 
